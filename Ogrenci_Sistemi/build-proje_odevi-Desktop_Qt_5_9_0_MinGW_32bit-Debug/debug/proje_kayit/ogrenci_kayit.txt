@@ -1,0 +1,7 @@
+Özgenur Saygý 171307024 Biliþim_Sis_Müh 1701 nursyg.99@gmail.com 1 Matematik Algoritma_Ve_Programlama 11.09.2017
+Ezgi Gedik 171307025 Biyomedikal_Müh 1702 ezgi@gmail.com 1 Matematik Kimyaya_Giriþ 11.09.2017
+Özgenur Saygý 171307024 Biliþim_Sis_Müh 1701 nursyg.99@gmail.com 2 Ýnkilap Lineer_Cebir 11.09.2018
+Ayþe Saygý 171307026 Otomotiv_Müh 1703 ayse@gmail.com 1 Matematik Fizik 19.11.2017
+Ayþe Saygý 171307026 Otomotiv_Müh 1703 ayse@gmail.com 2 Ýngilizce Teknik_Resim 10.09.2018
+Ayþe Saygý 171307026 Otomotiv_Müh 1703 ayse@gmail.com 3 Otomotive_Giriþ  Ýnkilap 12.09.2019
+Ayþe Saygý 171307026 Otomotiv_Müh 1703 ayse@gmail.com 4 Termodinamik Türk_Dili 11.10.2020

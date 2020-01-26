@@ -1,0 +1,13 @@
+Ezgi 171307025 Kimyaya_Giriþ 80 90 0
+Ezgi 171307025 Matematik 100 90 0
+Özgenur 171307024 Matematik 75 100 0
+Özgenur 171307024 Programlama 57 100 0
+Özgenur 171307024 Lineer_Cebir 80 90 0
+Ayþe 171307026 Fizik 90 80 0
+Ayþe 171307026 Matematik 80 45 0
+Ayþe 171307026 Ýngilizce 78 85 0
+Ayþe 171307026 Teknik_Resim 80 100 0
+Ayþe 171307026 Ýnkilap 70 70 0
+Ayþe 171307026 Otomotive_Giriþ 80 80 0
+Ayþe 171307026 Termodinamik 85 70 0
+Ayþe 171307026 Türk_Dili 90 100 0

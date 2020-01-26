@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Resim">
+        <file>resim1.jpg</file>
+        <file>resim1.png</file>
+        <file>giris.png</file>
+        <file>resim1_2.png</file>
+        <file>resim1_3png.png</file>
+        <file>resim1_4.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>logorgb.png</file>
+    </qresource>
+</RCC>
